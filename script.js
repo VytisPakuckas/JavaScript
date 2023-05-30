@@ -448,3 +448,5 @@ if (answer5 === "chichi" && answer6 === "gohan" && answer7 === "krilin") {
 //4 - Gerai
 //5 - Puikiai
 //Vertinimą reikia įvesti per prompt. 
+
+console.log('labas')
